@@ -1,0 +1,132 @@
+
+images4.png
+size: 64, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Fire Bullet
+  rotate: false
+  xy: 38, 75
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Red Bullet
+  rotate: false
+  xy: 2, 21
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f1
+  rotate: false
+  xy: 38, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f0
+  rotate: false
+  xy: 38, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f2
+  rotate: false
+  xy: 20, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f3
+  rotate: false
+  xy: 20, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f5
+  rotate: false
+  xy: 2, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_idle_anim_f4
+  rotate: false
+  xy: 2, 109
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f0
+  rotate: false
+  xy: 38, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f1
+  rotate: false
+  xy: 20, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f2
+  rotate: false
+  xy: 2, 91
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f3
+  rotate: false
+  xy: 2, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f4
+  rotate: false
+  xy: 2, 73
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goblin_run_anim_f5
+  rotate: false
+  xy: 2, 37
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+idle down1
+  rotate: false
+  xy: 2, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+idle left1
+  rotate: false
+  xy: 20, 54
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+idle right1
+  rotate: false
+  xy: 20, 36
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+idle up1
+  rotate: false
+  xy: 18, 21
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
